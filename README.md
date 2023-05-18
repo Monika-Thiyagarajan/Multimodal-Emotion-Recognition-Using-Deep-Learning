@@ -1,7 +1,7 @@
 # Multimodal-Emotion-Recognition-Using-Deep-Learning
 
 ### Developed by our team of 4 members
-####1. Monika Thiyagarajan (Myself)
+1. Monika Thiyagarajan (Myself)
 ####2. Deepika Ramamoorthy
 ####3. Samyuktha Gunasekaran
 ####4. Sindhuja Kubendhiran
