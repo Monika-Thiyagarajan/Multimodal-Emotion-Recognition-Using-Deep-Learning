@@ -1,14 +1,14 @@
 # Multimodal-Emotion-Recognition-Using-Deep-Learning
 
-## Developed by our team of 4 members
-## Monika Thiyagarajan (Myself)
-## Deepika Ramamoorthy
-## Samyuktha Gunasekaran
-## Sindhuja Kubendhiran
+#### Developed by our team of 4 members
+### Monika Thiyagarajan (Myself)
+### Deepika Ramamoorthy
+### Samyuktha Gunasekaran
+### Sindhuja Kubendhiran
 
-## This project is used to detect the emotion of the user by using the modalities such as audio and video in realtime.
+### This project is used to detect the emotion of the user by using the modalities such as audio and video in realtime.
 
-## How to run
+### How to run
 ## 1. Make sure python is installed on your system.
 ## 2. clone this repository.
 ## 3. go to this project path and open cmd.
